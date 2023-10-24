@@ -5,9 +5,10 @@ namespace TodoWebApp.Models
 	{
 		public int Id { get; set; }
 		public string TodoItem { get; set; }
-
+	
 		public Todo()
 		{
+		
 		}
 	}
 }
